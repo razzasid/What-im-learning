@@ -19,6 +19,9 @@
 ### Personal development
 
 - [x] Ikigai
+- [x] The Alchemist
 - [ ] Atomic Habits
+- [ ] Psychology of Money
+- [ ] Rich Dad Poor Dad
 - [ ] The power of Subconcious mind
 - [ ] Deep Work
