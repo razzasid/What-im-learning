@@ -12,10 +12,13 @@
 ## Reading List
 ### Technical Development
 
-- [x] Learn JavaScript
-- [ ] Learning React 
+- [x] JavaScript
+- [ ] Async JS
+- [ ] React 
+- [ ] Redux
 - [ ] Practice Wordpress development
 - [ ] cryptography
+
 
 ### Personal development
 
