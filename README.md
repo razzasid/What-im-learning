@@ -17,7 +17,7 @@
 - [ ] Async JS
 - [ ] React 
 - [ ] Redux
-- [ ] Practice Wordpress development
+- [ ] Practice WordPress development
 - [ ] cryptography
 
 
@@ -28,5 +28,5 @@
 - [ ] Atomic Habits
 - [ ] Psychology of Money
 - [ ] Rich Dad Poor Dad
-- [ ] The power of Subconcious mind
+- [ ] The power of Subconscious mind
 - [ ] Deep Work
