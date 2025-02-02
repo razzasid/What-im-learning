@@ -14,7 +14,7 @@
 ### Technical Development
 
 - [x] JavaScript
-- [ ] Async JS
+- [x] Async JS
 - [ ] React 
 - [ ] Redux
 - [ ] Practice WordPress development
